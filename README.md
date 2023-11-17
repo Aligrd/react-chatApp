@@ -1,15 +1,9 @@
 realtime chat app 
 <h2>
-  react 
+  front 
 </h2>
+react , next , socket.io-client , tailwindcss
 <h2>
-nextjs 
-</h2>
-<h2>
-  socket.io 
-  socket.client 
-</h2>
-<h2>
-  tailwindcss
+  serverside
 </h2>
 node(express) for websocket server
